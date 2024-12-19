@@ -1,0 +1,20 @@
+## FIGURE
+figure.dpi: 300
+
+## FONT
+mathtext.fontset: "stix"
+font.family: "STIXGeneral"
+
+## AXES
+axes.linewidth: 1.5
+
+## TICKS
+xtick.major.width: 1.25
+ytick.major.width: 1.25
+xtick.major.size: 4
+ytick.major.size: 4
+xtick.minor.size: 2.5
+ytick.minor.size: 2.5
+
+## colors
+axes.prop_cycle: cycler('color', ['royalblue', 'coral', 'mediumseagreen', 'indigo', 'tan', 'darkgoldenrod', 'darkcyan', 'black'])
